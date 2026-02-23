@@ -1,0 +1,4 @@
+{
+  "issuer": "https://pudkrong.github.io/my-auth-mock",
+  "jwks_uri": "https://pudkrong.github.io/my-auth-mock/.well-known/jwks.json"
+}
